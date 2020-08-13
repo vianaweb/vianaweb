@@ -13,7 +13,7 @@ You can find me on
 
 [GoodReads](https://www.goodreads.com/user/show/41233474-evandro-viana)
 
-[TryHackme](https://tryhackme.com/p/vianaweb) [PentesterLAB](https://pentesterlab.com/profile/vianaweb)
+[TryHackme](https://tryhackme.com/p/vianaweb) | [PentesterLAB](https://pentesterlab.com/profile/vianaweb)
 
 [Alura](https://cursos.alura.com.br/user/vianaweb)
 
