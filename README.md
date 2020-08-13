@@ -7,7 +7,7 @@ You can find me on
 
 [Twitter](http://twitter.com/vianaweb)
 
-[Linkedin](http://linkedin/inn/vianaweb)
+[Linkedin](http://linkedin.com/in/vianaweb)
 
 [Untappd](https://untappd.com/user/vianaweb)
 
