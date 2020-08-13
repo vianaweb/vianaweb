@@ -15,4 +15,5 @@ You can find me on
 
 [TryHackme](https://tryhackme.com/p/vianaweb)
 
+[Alura](https://cursos.alura.com.br/user/vianaweb)
 
