@@ -1,8 +1,5 @@
 Hello , I'm Evandro Viana 
 
-Brazilian , Based in Joinville , SC 
-
-
 You can find me on 
 
 [Twitter](http://twitter.com/vianaweb)
