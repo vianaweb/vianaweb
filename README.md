@@ -8,4 +8,7 @@ You can find me on
 [TryHackme](https://tryhackme.com/p/vianaweb) | [PentesterLAB](https://pentesterlab.com/profile/vianaweb)
 [Alura](https://cursos.alura.com.br/user/vianaweb)
 
+[Credly](https://www.credly.com/users/evandro-viana)
+
+
 [![roadmap.sh](https://roadmap.sh/card/tall/64ff940b5ce9f4ca58b5f89e?variant=dark)](https://roadmap.sh)
